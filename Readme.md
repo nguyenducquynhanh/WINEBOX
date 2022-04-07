@@ -8,7 +8,8 @@
 + Đối tượng()
 + DOM/BOM
 4. Thư viện khác:
-+ fontawsome
++ Font awesome
++ Image
 
 
 
